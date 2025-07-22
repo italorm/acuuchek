@@ -1,0 +1,46 @@
+1. Visão Geral da Solução Accu-Chek SmartGuide
+A solução Accu-Chek SmartGuide é um sistema completo de Monitorização Contínua de Glicose (CGM) desenhado para ajudar os indivíduos com diabetes a gerir os seus níveis de glicose com maior confiança e a evitar suposições no seu percurso de gestão da diabetes. Esta solução integra um sensor vestível e duas aplicações móveis, funcionando em conjunto para monitorizar e prever os níveis de glicose. Adicionalmente, oferece uma plataforma de gestão de dados para profissionais de saúde.
+Componentes Principais da Solução:
+• Sensor CGM Accu-Chek SmartGuide: Um sensor confortável e resistente à água que o paciente pode usar no braço para receber dados de glicose em tempo real.
+• Aplicação Accu-Chek SmartGuide: Uma aplicação para smartphone que permite aos pacientes verificar os seus valores de CGM em tempo real, monitorizar a diabetes e registar dados relevantes.
+• Aplicação Accu-Chek SmartGuide Predict: Uma aplicação integrada que fornece previsões dos valores de glicose futuros do paciente.
+• Accu-Chek Care: Um software de gestão de diabetes baseado na nuvem que recebe os dados de CGM dos pacientes e fornece insights acionáveis para os profissionais de saúde.
+2. Detalhes dos Componentes e Funcionalidades
+2.1. Sensor CGM Accu-Chek SmartGuide
+• Aplicação Simples: O aplicador "tudo-em-um" torna a inserção do sensor rápida e fácil. Os pacientes simplesmente abrem a patilha, desenroscam a tampa e pressionam o penso no braço.
+• Duração de Uso: Cada sensor pode ser usado por até duas semanas (14 dias) para fornecer leituras de glicose em tempo real.
+• Transferência de Dados Sem Fios: O sensor transfere automaticamente e sem fios os dados para a aplicação CGM a cada 5 minutos, permitindo aos pacientes ver as suas leituras de CGM em tempo real.
+• Precisão Comprovada: A solução Accu-Chek SmartGuide possui uma precisão comprovada com um MARD de 9.2%. Possui uma alta precisão de 7.0 mg/dL MARD abaixo de 70 mg/dL.
+• Calibração: A calibração, conforme solicitado pela aplicação Accu-Chek SmartGuide, é necessária para garantir que as leituras são tão precisas quanto possível e para que os dados de CGM possam ser usados para decisões de dosagem de insulina. Um sensor não calibrado estará no "Modo Tendência", onde os valores podem ser vistos, mas não devem ser usados para decisões de terapia. Um sensor calibrado estará no "Modo Terapia", permitindo o uso dos valores confirmados para decisões. A primeira calibração é solicitada 12 horas após a inserção do sensor, e uma segunda solicitação entre 30 minutos e 3 horas após a calibração inicial.
+2.2. Aplicação Accu-Chek SmartGuide Esta aplicação permite aos pacientes monitorizar a sua diabetes, verificar valores de CGM em tempo real, e registar informações importantes. Ajuda os pacientes a aprender como o seu estilo de vida e terapia afetam os seus níveis de glicose.
+• Logbook: Fornece um espaço para os pacientes registarem a sua insulina, refeições e outras informações, ajudando-os a compreender como estes fatores afetam os seus níveis de glicose.
+• Alarmes de Glicose Personalizáveis: Alertam os pacientes quando os seus níveis de glicose ficam muito altos ou baixos, permitindo-lhes tomar ações corretivas para evitar hiper- ou hipoglicemia.
+• Gráficos e Estatísticas: A aplicação oferece uma visão geral clara da curva de glicose, tendências e tempo no intervalo, utilizando gráficos e estatísticas simples para ajudar os pacientes a aprender sobre a sua diabetes.
+2.3. Aplicação Accu-Chek SmartGuide Predict Esta aplicação fornece uma previsão dos próximos valores de glicose do paciente, permitindo-lhes agir para prevenir hiper- e hipoglicemia.
+• Glucose Predict: Mostra onde os níveis de glicose do paciente provavelmente estarão nas próximas 2 horas num gráfico fácil de ler. Baseia-se nas leituras de CGM, dados do Logbook (não obrigatório) e hora do dia. Permite que os pacientes se preparem para evitar eventos de hiper e hipoglicemia antes que aconteçam. A precisão da previsão é maior para os próximos 45 minutos, com a incerteza a aumentar com o tempo.
+• Low Glucose Predict: Alerta o paciente quando é provável que a hipoglicemia ocorra nos próximos 30 minutos, para que possam agir imediatamente para evitá-la. Uma notificação push é enviada, e ao abri-la, são apresentadas mais informações e sugestões sobre como estabilizar os níveis.
+• Night Low Predict: Concebido para mostrar o risco de hipoglicemia noturna do paciente antes de deitar, permitindo-lhe tomar medidas preventivas. Esta previsão está disponível entre as 21:00 e as 02:00 para as próximas 7 horas. Ajuda a minimizar o tempo passado em hipoglicemia noturna, para que os pacientes possam dormir com menos preocupação e melhor.
+• Padrões de Glicose: Esta funcionalidade identifica excursões de glicose recorrentes e sugere potenciais causas, ajudando os pacientes a adaptar o seu comportamento. Um "padrão" é definido como um evento que ocorre mais de uma vez no mesmo dia ou semana de calendário.
+• Relatórios PDF: Os pacientes podem facilmente exportar e partilhar relatórios prontos a usar da aplicação, incluindo o seu Perfil de Glicose Ambulatório (AGP) e padrões de glicose, para ajudar a fornecer um melhor cuidado.
+2.4. Accu-Chek Care O Accu-Chek Care é um software de gestão de diabetes baseado na nuvem, que trabalha em conjunto com a solução Accu-Chek SmartGuide CGM para fornecer dados e insights acionáveis para os profissionais de saúde.
+• Dados Centralizados: Recebe os dados de CGM dos pacientes, apresentando-os em visualizações e relatórios estruturados, usando os mais recentes padrões de AGP.
+• Foco na Terapia: Ajuda os profissionais de saúde a gastar menos tempo a recolher e estruturar dados, permitindo-lhes focar-se em compreender melhor os seus pacientes e responder às suas necessidades, otimizando o cuidado personalizado.
+3. Benefícios Chave para os Utilizadores
+A solução Accu-Chek SmartGuide foi concebida para oferecer:
+• Leituras de Glicose em Tempo Real: Fornece leituras precisas de CGM sem a necessidade de picadas regulares no dedo, permitindo aos pacientes conhecer sempre os seus níveis de glicose. (Nota: A calibração requer a inserção de um valor de glicose sanguínea. Em certas situações, um medidor de glicose no sangue deve ser usado para decisões de autogestão).
+• Melhoria do Controlo Glicémico: Ajuda os pacientes a melhorar o seu controlo glicémico e a reduzir os níveis de HbA1c, mostrando-lhes quando os seus níveis de glicose necessitam de atenção.
+• Prevenção de Excursões de Glicose: O sistema CGM prevê os "valores de glicose futuros" dos pacientes, ajudando-os a agir ou a preparar-se para evitar níveis altos e baixos.
+• Decisões Informadas: Os pacientes podem usar os dados de CGM para dosar a sua insulina e tomar decisões de autogestão com confiança.
+4. Compatibilidade e Requisitos de Sistema
+As aplicações Accu-Chek SmartGuide e Accu-Chek SmartGuide Predict são compatíveis com a maioria dos dispositivos móveis que cumprem os seguintes requisitos:
+• Bluetooth Low Energy: O dispositivo móvel deve suportar Bluetooth Low Energy 5.0 ou superior.
+• Sistema Operativo:
+    ◦ iPhones: iOS 15.3 ou superior.
+    ◦ Dispositivos Android: Android 11 ou superior.
+• Smartwatches: Utilizadores de iPhone podem usar a aplicação Accu-Chek SmartGuide com o Apple Watch (watchOS 9 ou superior). Outros smartwatches não são compatíveis.
+5. Onboarding e Suporte ao Paciente
+A Accu-Chek oferece um abrangente "Centro de Aprendizagem CGM" para facilitar a familiarização e o uso da solução:
+• Treino de Produto Guiado: Conteúdo em pequenas "porções" ajuda pacientes recém-integrados e seus cuidadores a aprender tudo o que precisam para configurar e usar a solução.
+• Artigos e Vídeos Educacionais: Vídeos mostram exemplos de como usar a aplicação SmartGuide Predict na gestão diária da diabetes.
+• Perguntas e Respostas Rápidas: Os pacientes podem encontrar informações e contactar a equipa de Suporte ao Cliente Accu-Chek se tiverem algum problema.
+• Redução do Tempo para Profissionais: Esta disponibilidade de recursos permite que os profissionais de saúde dediquem mais tempo à terapia dos pacientes e menos tempo a responder a perguntas sobre o produto.
