@@ -38,9 +38,3 @@ Os Aplicativo Accu-Chek SmartGuide e Accu-Chek SmartGuide Predict são compatív
     ◦ iPhones: iOS 15.3 ou superior.
     ◦ Dispositivos Android: Android 11 ou superior.
 • Smartwatches: Utilizadores de iPhone podem usar a aplicativos Accu-Chek SmartGuide com o Apple Watch (watchOS 9 ou superior). Outros smartwatches não são compatíveis.
-5. Onboarding e Suporte ao Paciente
-A Accu-Chek oferece um abrangente "Centro de Aprendizagem CGM" para facilitar a familiarização e o uso da solução:
-• Treino de Produto Guiado: Conteúdo em pequenas "porções" ajuda pacientes recém-integrados e seus cuidadores a aprender tudo o que precisam para configurar e usar a solução.
-• Artigos e Vídeos Educacionais: Vídeos mostram exemplos de como usar a aplicativos SmartGuide Predict na gestão diária da diabetes.
-• Perguntas e Respostas Rápidas: Os pacientes podem encontrar informações e contactar a equipa de Suporte ao Cliente Accu-Chek se tiverem algum problema.
-• Redução do Tempo para Profissionais: Esta disponibilidade de recursos permite que os profissionais de saúde dediquem mais tempo à terapia dos pacientes e menos tempo a responder a perguntas sobre o produto.
