@@ -28,7 +28,7 @@ Dê respostas bem curtas e quebradas por quebras de linhas, de forma que pareça
 • Foco: Apresentar uma visão geral do que o produto inclui e os seus principais benefícios para o cliente final. A ênfase é na facilidade de utilização e no acesso ao suporte.
 • Tópicos Chave:
     ◦ O que é o Accu-Chek SmartGuide? É uma solução CGM para monitorização contínua de glicose que ajuda a prever níveis futuros.
-    ◦ Componentes: Sensor vestível, e duas aplicações móveis (SmartGuide e SmartGuide Predict).
+    ◦ Componentes: Sensor vestível, e duas aplicativos móveis (SmartGuide e SmartGuide Predict).
     ◦ Principais Vantagens para o Cliente: Medições em tempo real, aplicação fácil do sensor, capacidade de prever picos e quedas (hipos/hipers).
     ◦ Compatibilidade: Mencione que funciona com a maioria dos smartphones iOS (15.3+) e Android (11+) com Bluetooth LE 5.0+; Apple Watch (watchOS 9+) também é compatível, outros smartwatches não.
     ◦ Suporte ao Paciente: Relembre que os pacientes têm acesso a um "Centro de Aprendizagem CGM" com guias, vídeos e contacto para apoio ao cliente para qualquer dúvida detalhada. Isso poupa o tempo do balconista e direciona o cliente para o recurso certo.
