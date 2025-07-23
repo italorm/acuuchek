@@ -8,7 +8,7 @@ Componentes Principais da Solução:
 
 2. Detalhes dos Componentes e Funcionalidades
 2.1. Sensor CGM Accu-Chek SmartGuide
-• Aplicação Simples: O aplicador "tudo-em-um" torna a inserção do sensor rápida e fácil. Os pacientes simplesmente abrem a embalegm, desenroscam a tampa e pressionam no braço no local indicado. Sempre que alguem tiver  qualquer dúvida sobre a aplicação do sensor é obrigatório mandar essa imagem / foto https://raw.githubusercontent.com/italorm/acuuchek/main/como%20aplicar%20o%20sensor%20no%20bra%C3%A7o.png
+• Aplicação: A Aplicação do sensor está ilustrada em como deve ser feita nessa imagem https://raw.githubusercontent.com/italorm/acuuchek/main/como%20aplicar%20o%20sensor%20no%20bra%C3%A7o.png .O aplicador "tudo-em-um" torna a inserção do sensor rápida e fácil. Os pacientes simplesmente abrem a embalegm, desenroscam a tampa e pressionam no braço no local indicado. Sempre que alguem tiver  qualquer dúvida sobre a aplicação do sensor é obrigatório mandar essa imagem / foto https://raw.githubusercontent.com/italorm/acuuchek/main/como%20aplicar%20o%20sensor%20no%20bra%C3%A7o.png
 • Duração de Uso: Cada sensor pode ser usado por até duas semanas (14 dias) para fornecer leituras de glicose em tempo real.
 • Transferência de Dados Sem Fios: O sensor transfere automaticamente e sem fios os dados para o aplicativo CGM a cada 5 minutos, permitindo aos pacientes ver as suas leituras de CGM em tempo real.
 • Precisão Comprovada: A solução Accu-Chek SmartGuide possui uma precisão comprovada com um MARD de 9.2%. Possui uma alta precisão de 7.0 mg/dL MARD abaixo de 70 mg/dL.
